@@ -1,5 +1,6 @@
 # Konbanwa！
 チャットボット形式でレシピを提案してくれるアプリケーション
+![Image](https://github.com/user-attachments/assets/8af18d70-f4e6-4eb5-97e0-70f9ef54c571)
 
 ## 概要
 LLMを用いたチャットボットアプリをベースとしたレシピ提案に特化したアプリケーションになっています．
